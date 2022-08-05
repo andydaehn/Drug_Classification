@@ -8,3 +8,13 @@ pytest
 voila
 ipyvuetify
 voila-vuetify
+numpy
+sklearn-model_selection
+sklearn-ensemble
+sklearn-tree
+sklearn-metrics
+sklearn-preprocessing
+sklearn-model_selection
+sklearn-pipeline
+jupyter-dash
+dash
