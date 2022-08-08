@@ -2,8 +2,7 @@ numpy
 pandas
 sklearn
 plotly
-jupyter-dash
-jupyterlab-dash
+
 
 
 
