@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andydaehn/Drug_Classification/main?labpath=Drug_Classification.ipynb)
 
-## AndyDaehn.com
-<a href="https://andydaehn.com/"><img alt="andydaehn.com" src="pictures/logo.jpg" width="5%"></a>
+
+<p>Visit my website: <a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="5%"></a></p>
 
 
 This project is based off a Kaggle dataset by Prathan Tripathi at (https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
