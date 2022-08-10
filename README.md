@@ -44,7 +44,7 @@ To see the Voila dashboard with no code click the "Voila" button.
 <img src="pictures/dtc-res.png" alt="drawing" width="400"/>
 
 <div>
-<a href="https://andydaehn.com/" target="_blank">
+<a href="https://andydaehn.com/" target="_blank" rel="noopener noreferrer">
 <img alt="andydaehn.com" src="pictures/logo.jpg" width="10%">
 <div>
 <p>Andy Daehn</p>
