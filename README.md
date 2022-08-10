@@ -21,34 +21,17 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 ## Contents
 
-Table of contents:
 <img src="pictures/table_content.png" alt="drawing" width="500"/>
 
-<div style="display:inline-block;vertical-align:top;">
-<img src="pictures/head.png" alt="img"/>
-</div>
-<div style="display:inline-block;">
-<div class="top-left">Head</div>
-</div>
-
-Head:
 <img src="pictures/head.png" alt="drawing" width="500"/>
 
-Histogram of Na_to_K
 <img src="pictures/hist_nak.png" alt="drawing" width="500"/>
 
-Histogram of Drug
 <img src="pictures/drug_chol.png" alt="drawing" width="500"/>
 
-Results Random Forest Classifier:
 <img src="pictures/rfc-res.png" alt="drawing" width="500"/>
 
-Results Decision Tree Classifier:
 <img src="pictures/dtc-res.png" alt="drawing" width="500"/>
-
-
-
-
 
 
 
