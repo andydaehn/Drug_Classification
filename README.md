@@ -11,12 +11,12 @@ directly into the Notebook.
 
 After the notebook loads, run the notebook by clicking the "Restart and run all" 
 button.
-<img src="pictures/start_notebook.png" alt="drawing" width="500"/>
+<img src="pictures/start_notebook.png" alt="drawing" width="600"/>
 
 ### No code
 This project features a dashboard with no code that can be viewed with Voila.
 To see the Voila dashboard with no code click the "Voila" button.
-<img src="pictures/voila_button.png" alt="drawing" width="500"/>
+<img src="pictures/voila_button.png" alt="drawing" width="600"/>
 
 
 ## Contents
