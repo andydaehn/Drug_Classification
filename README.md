@@ -16,7 +16,7 @@ This project is based off a Kaggle dataset by <a href='https://www.kaggle.com/da
 
 ## Deployment
 The best way to deploy this project is through the Binder link above. The link will open 
-directly into the Notebook.
+directly into the notebook.
 
 After the notebook loads, run the notebook by clicking the "Restart and run all" button.
 
@@ -24,7 +24,7 @@ After the notebook loads, run the notebook by clicking the "Restart and run all"
 
 ### No code
 This project features a dashboard with no code that can be viewed with Voila.
-To see the Voila dashboard with no code click the "Voila" button.
+To see the Voila dashboard with no code click the "Voila" button with the curvy yellow line.
 
 <img src="pictures/voila_button.png" alt="drawing" width="600"/>
 
