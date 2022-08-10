@@ -14,7 +14,7 @@ After the notebook loads, run the notebook by clicking the "Restart and run all"
 button.
 ![restart](https://github.com/andydaehn/Drug_Classification/blob/main/pictures/start_notebook.png)
 
-# No code
+### No code
 This project features a dashboard with no code that can be viewed with Voila.
 To see the Voila dashboard with no code click the "Voila" button.
 ![voila](https://github.com/andydaehn/Drug_Classification/blob/main/pictures/voila_button.png)
@@ -22,7 +22,7 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 ![](https://hub.gke2.mybinder.org/user/andydaehn-drug_classification-fefw2ygr/doc/tree/Drug_Classification.ipynb)
 
-## Documentation
+## Draft
 
-[Documentation](https://linktodocumentation) 
+[Documentation]([https://linktodocumentation](https://hub.gke2.mybinder.org/user/andydaehn-drug_classification-fefw2ygr/doc/tree/Drug_Classification.ipynb) 
 
