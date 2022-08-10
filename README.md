@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andydaehn/Drug_Classification/main?labpath=Drug_Classification.ipynb)
 
+# Drug Classification
 
 This project is based off a Kaggle dataset by <a href='https://www.kaggle.com/datasets/prathamtripathi/drug-classification'><button>Prathan Tripathi</button></a>
 
