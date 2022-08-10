@@ -2,14 +2,16 @@
 
 # Drug Classification
 
-This project is based off a Kaggle dataset by <a href='https://www.kaggle.com/datasets/prathamtripathi/drug-classification'><button>Prathan Tripathi</button></a>
-
 Information has been collected about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of five medications, Drug A, Drug B, Drug c, Drug x and y.
 
 The goal is to build a model to find out which drug might be appropriate for a future patient with the same illness. The feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol of patients, and the target is the drug that each patient responded to.
 
 This analysis will help predict the best drug to use for a particular patient, based on medical data from 200 patients, 
 by classifying the patient to the drug profile.
+
+Comparing results from the Random Forest and Decision Tree Classifiers, The Decision Tree performed the best at 83.12%
+
+This project is based off a Kaggle dataset by <a href='https://www.kaggle.com/datasets/prathamtripathi/drug-classification'><button>Prathan Tripathi</button></a>
 
 
 ## Deployment
@@ -40,15 +42,14 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 <img src="pictures/dtc-res.png" alt="drawing" width="400"/>
 
+<div>
+<a href="https://andydaehn.com/" target="_blank">
+<img alt="andydaehn.com" src="pictures/logo.jpg" width="10%">
+<div>
+<p>Andy Daehn</p>
+</div>
+</div>
+  
 
 
-<a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"><figcaption>Vist My Website</figcaption></a>
-
-
-
-
-<figure>
-  <img src="img.jpg" alt="my img"/>
-  <figcaption> Your text </figcaption>
-</figure>
 
