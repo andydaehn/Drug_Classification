@@ -40,5 +40,15 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 <img src="pictures/dtc-res.png" alt="drawing" width="400"/>
 
-<p>Visit my website: <a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"></a></p>
+
+
+<a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"><figcaption> Your text </figcaption></a>
+
+
+
+
+<figure>
+  <img src="img.jpg" alt="my img"/>
+  <figcaption> Your text </figcaption>
+</figure>
 
