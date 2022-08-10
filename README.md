@@ -11,12 +11,13 @@ directly into the Notebook.
 
 After the notebook loads, run the notebook by clicking the "Restart and run all" 
 button.
+<img src="pictures/start_notebook.png" alt="drawing" width="200"/>
 ![restart](https://github.com/andydaehn/Drug_Classification/blob/main/pictures/start_notebook.png)
 
 ### No code
 This project features a dashboard with no code that can be viewed with Voila.
 To see the Voila dashboard with no code click the "Voila" button.
-![voila](https://github.com/andydaehn/Drug_Classification/blob/main/pictures/voila_button.png)
+<img src="pictures/voila_button.png" alt="drawing" width="200"/>
 
 
 ![](https://hub.gke2.mybinder.org/user/andydaehn-drug_classification-fefw2ygr/doc/tree/Drug_Classification.ipynb)
