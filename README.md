@@ -29,9 +29,9 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 <img src="pictures/drug_chol.png" alt="drawing" width="500"/>
 
-<img src="pictures/rfc-res.png" alt="drawing" width="300"/>
+<img src="pictures/rfc-res.png" alt="drawing" width="400"/>
 
-<img src="pictures/dtc-res.png" alt="drawing" width="300"/>
+<img src="pictures/dtc-res.png" alt="drawing" width="400"/>
 
 
 
