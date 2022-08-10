@@ -1,10 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andydaehn/Drug_Classification/main?labpath=Drug_Classification.ipynb)
 
 
-<p>Visit my website: <a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"></a></p>
-
-
-This project is based off a Kaggle dataset by <p>Prathan Tripathi<a href="https://www.kaggle.com/datasets/prathamtripathi/drug-classification" target="_blank"></a></p>
+This project is based off a Kaggle dataset by <a href='https://www.kaggle.com/datasets/prathamtripathi/drug-classification'><button>Prathan Tripathi</button></a>
 
 Information has been collected about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of five medications, Drug A, Drug B, Drug c, Drug x and y.
 
@@ -42,5 +39,5 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 <img src="pictures/dtc-res.png" alt="drawing" width="400"/>
 
-
+<p>Visit my website: <a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"></a></p>
 
