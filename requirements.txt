@@ -2,6 +2,7 @@ numpy
 pandas
 sklearn
 plotly
+voila
 
 
 
