@@ -42,7 +42,7 @@ To see the Voila dashboard with no code click the "Voila" button.
 
 
 
-<a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"><figcaption> Your text </figcaption></a>
+<a href="https://andydaehn.com/" target="_blank"><img alt="andydaehn.com" src="pictures/logo.jpg" width="10%"><figcaption>Vist My Website</figcaption></a>
 
 
 
