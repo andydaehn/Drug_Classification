@@ -1,6 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andydaehn/Drug_Classification/main?labpath=Drug_Classification.ipynb)
 
 <a href="[https://www.freecodecamp.org/](https://medium.com/@andydaehn/classifying-drugs-for-patients-with-data-science-394eaca63051)" target="_blank">
+  
+  
 [Medium Article: Classifying Drugs for Patients with Data Science](https://medium.com/@andydaehn/classifying-drugs-for-patients-with-data-science-394eaca63051 target="_blank")
 # Drug Classification
 
